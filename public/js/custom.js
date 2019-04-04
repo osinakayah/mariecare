@@ -167,6 +167,14 @@
         // $('#volunteerModal').modal();
     });
 
+    $('#amount-real').keyup(function (e) {
+        console.log(123)
+        const amount = $('#donate-form #amount-real').val() * 100;
+
+        $('#donate-form #amount').val(amount);
+
+    });
+
 
 
 })(jQuery);

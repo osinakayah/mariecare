@@ -143,16 +143,7 @@
     </div><!-- .footer-bar -->
 </footer><!-- .site-footer -->
 
-<script type='text/javascript' src='js/jquery.js'></script>
-<script type='text/javascript' src='js/jquery.collapsible.min.js'></script>
-<script type='text/javascript' src='js/swiper.min.js'></script>
-<script type='text/javascript' src='js/jquery.countdown.min.js'></script>
-<script type='text/javascript' src='js/circle-progress.min.js'></script>
-<script type='text/javascript' src='js/jquery.countTo.min.js'></script>
-<script type='text/javascript' src='js/jquery.barfiller.js'></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-<script type='text/javascript' src='js/custom.js'></script>
-<script src="https://js.paystack.co/v1/paystack.js"></script>
+
 
 <div class="modal" id="volunteerModal">
     <div class="modal-dialog">
@@ -205,12 +196,12 @@
                 <p>OR</p>
                 <form method="POST" action="{{ route('pay') }}" id="donate-form">
                     <div class="form-group">
-                        <input type="hidden" class="form-control" id="amount" name="amount" value="10000">
+                        <input type="hidden" class="form-control" id="amount" name="amount" value="">
                         <label for="amount-real">Amount</label>
-                        <input type="number" class="form-control" id="amount-real">
+                        <input type="number" class="form-control" id="amount-real" required>
 
                         <label for="email">Email</label>
-                        <input type="email" class="form-control" id="email" name="email">
+                        <input type="email" class="form-control" id="email" name="email" required>
 
                         <input type="hidden" name="reference" value="{{ Paystack::genTranxRef() }}"> {{-- required --}}
                         <input type="hidden" name="key" value="{{ config('paystack.secretKey') }}"> {{-- required --}}
@@ -229,6 +220,15 @@
         </div>
     </div>
 </div>
-
+<script type='text/javascript' src='js/jquery.js'></script>
+<script type='text/javascript' src='js/jquery.collapsible.min.js'></script>
+<script type='text/javascript' src='js/swiper.min.js'></script>
+<script type='text/javascript' src='js/jquery.countdown.min.js'></script>
+<script type='text/javascript' src='js/circle-progress.min.js'></script>
+<script type='text/javascript' src='js/jquery.countTo.min.js'></script>
+<script type='text/javascript' src='js/jquery.barfiller.js'></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script type='text/javascript' src='js/custom.js'></script>
+<script src="https://js.paystack.co/v1/paystack.js"></script>
 </body>
 </html>
