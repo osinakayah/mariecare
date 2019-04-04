@@ -147,8 +147,8 @@
     $('.fund-raised-bar-6').barfiller({ barColor: '#ff5a00', duration: 1500 });
 
     // Load more
-    let $container      = $('.portfolio-container');
-    let $item           = $('.portfolio-item');
+    var $container      = $('.portfolio-container');
+    var $item           = $('.portfolio-item');
 
     $item.slice(0, 9).addClass('visible');
 
@@ -160,6 +160,11 @@
 
     $('.donate-btn').on('click', function (e) {
         $('#donateModal').modal();
+    });
+
+    $('.become-volunteer').on('click', function (e) {
+        window.location = '/contact'
+        // $('#volunteerModal').modal();
     });
 
 

@@ -25,3 +25,13 @@ Route::get('/portfolio', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::post('contact/email', function (\Illuminate\Http\Request $request){
+    $name = $request->get('fullname');
+    $email = $request->get('email');
+    $message = $request->get('message');
+    \Illuminate\Support\Facades\Mail::to('info@mariecare.org')->send(new \App\Mail\ContactMariecare($name, $email, $message));
+
+    return redirect('/contact')->withSuccess('Message was successful!');
+
+})->name('send-email');
