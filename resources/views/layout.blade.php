@@ -152,6 +152,7 @@
 <script type='text/javascript' src='js/jquery.barfiller.js'></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script type='text/javascript' src='js/custom.js'></script>
+<script src="https://js.paystack.co/v1/paystack.js"></script>
 
 <div class="modal" id="volunteerModal">
     <div class="modal-dialog">
@@ -202,12 +203,21 @@
                 Bank:   Zenith Bank
                 <br>
                 <p>OR</p>
-                <form>
+                <form method="POST" action="{{ route('pay') }}" id="donate-form">
                     <div class="form-group">
-                        <label for="amount">Amount</label>
-                        <input type="number" class="form-control" id="amount">
+                        <input type="hidden" class="form-control" id="amount" name="amount" value="10000">
+                        <label for="amount-real">Amount</label>
+                        <input type="number" class="form-control" id="amount-real">
+
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" name="email">
+
+                        <input type="hidden" name="reference" value="{{ Paystack::genTranxRef() }}"> {{-- required --}}
+                        <input type="hidden" name="key" value="{{ config('paystack.secretKey') }}"> {{-- required --}}
+                        {{ csrf_field() }}
+
                     </div>
-                    <button type="submit" class="btn btn-primary btn gradient-bg">Donate</button>
+                    <button id="donate-submit" type="submit" class="btn btn-primary btn gradient-bg">Donate</button>
                 </form>
             </div>
 

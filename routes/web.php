@@ -35,3 +35,5 @@ Route::post('contact/email', function (\Illuminate\Http\Request $request){
     return redirect('/contact')->withSuccess('Message was successful!');
 
 })->name('send-email');
+
+Route::post('/pay', 'PaymentController@redirectToGateway')->name('pay');
