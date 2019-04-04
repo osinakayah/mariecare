@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Mariecare</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -35,15 +35,13 @@
                     MAIL: <a href="#">mariecareinitiative@gmail.com</a>
                 </div><!-- .header-bar-email -->
 
-                <div class="header-bar-text">
-                    <p>PHONE: <span>+2348032633071</span></p>
-                </div><!-- .header-bar-text -->
-            </div><!-- .col -->
+                <div class="header-bar-email">
+                    MAIL: <a href="#">info@mariecare.org</a>
+                </div><!-- .header-bar-email -->
 
-            <div class="col-12 col-lg-4 d-flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
-                <div class="donate-btn">
-                    <a href="#">Donate Now</a>
-                </div><!-- .donate-btn -->
+                <div class="header-bar-text">
+                    <p>PHONE: <span>+23495045393, +2348032599864</span></p>
+                </div><!-- .header-bar-text -->
             </div><!-- .col -->
         </div><!-- .row -->
     </div><!-- .container -->
@@ -118,6 +116,62 @@
         </div><!-- .row -->
     </div><!-- .container -->
 </div><!-- .home-page-icon-boxes -->
+
+<div class="welcome-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 order-2 order-lg-1">
+                <img src="images/a.jpg" alt="welcome">
+            </div><!-- .col -->
+
+            <div class="col-12 col-lg-6 order-1 order-lg-2">
+                <div class="welcome-content">
+                    <header class="entry-header">
+                        <h2 class="entry-title">Our Mission</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content mt-5">
+                        <p>
+                            To be a channel through which the hope of the underprivileged persons and
+                            communities is restored.
+                        </p>
+                    </div><!-- .entry-content -->
+
+                </div><!-- .welcome-content -->
+
+            </div><!-- .col -->
+        </div><!-- .row -->
+    </div><!-- .container -->
+</div><!-- .home-page-icon-boxes -->
+
+<div class="welcome-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-6 order-2 order-lg-1">
+                <div class="welcome-content">
+                    <header class="entry-header">
+                        <h2 class="entry-title">Our Vision</h2>
+                    </header><!-- .entry-header -->
+
+                    <div class="entry-content mt-5">
+                        <p>
+                            To constantly provide help to the immediate problems in our society
+
+                            Our initiative has made significant impact in carrying out social outreaches geared
+                            towards affecting the lives of the downtrodden in the past.
+                        </p>
+                    </div><!-- .entry-content -->
+
+                </div><!-- .welcome-content -->
+            </div><!-- .col -->
+
+            <div class="col-12 col-lg-6 order-1 order-lg-2">
+                <img src="images/b.jpg" alt="welcome">
+            </div><!-- .col -->
+        </div><!-- .row -->
+    </div><!-- .container -->
+</div><!-- .home-page-icon-boxes -->
+
 
 <div class="about-stats">
     <div class="container">

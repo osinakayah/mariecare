@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Mariecare</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -32,11 +32,11 @@
             <div class="row flex-wrap justify-content-center justify-content-lg-between align-items-lg-center">
                 <div class="col-12 col-lg-8 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                     <div class="header-bar-email">
-                        MAIL: <a href="#">mariecareinitiative@gmail.com</a>
+                        MAIL: <a href="#">info@mariecare.org</a>
                     </div><!-- .header-bar-email -->
 
                     <div class="header-bar-text">
-                        <p>PHONE: <span>+2348032633071</span></p>
+                        <p>PHONE: <span>+23495045393, +2348032599864</span></p>
                     </div><!-- .header-bar-text -->
                 </div><!-- .col -->
 
@@ -88,16 +88,11 @@
                     <div class="row h-100">
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
-                                <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>A cheerful heart is good medicine, but a broken spirit saps a person’s strength</h4>
                             </header><!-- .entry-header -->
 
-                            <div class="entry-content mt-4">
-                                <p>An effort made for the happiness of others lifes us above ourselves.</p>
-                            </div><!-- .entry-content -->
-
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <a href="#" class="btn gradient-bg mr-2">Donate Now</a>
+                                <a href="#" class="btn gradient-bg mr-2" style="display: none">Donate Now</a>a
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -113,17 +108,16 @@
                     <div class="row h-100">
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
-                                <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>You have not lived today until you have done something for someone who can never repay you.</h4>
                             </header><!-- .entry-header -->
 
-                            <div class="entry-content mt-4">
-                                <p>Be a part of the breakthrough and make someone’s dream come true.</p>
-                            </div><!-- .entry-content -->
+                            {{--<div class="entry-content mt-4">--}}
+                                {{--<p>Be a part of the breakthrough and make someone’s dream come true.</p>--}}
+                            {{--</div><!-- .entry-content -->--}}
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <a href="#" class="btn gradient-bg mr-2">Donate Now</a>
-                                <a href="#" class="btn orange-border">Read More</a>
+                                {{--<a href="#" class="btn gradient-bg mr-2">Donate Now</a>--}}
+                                {{--<a href="#" class="btn orange-border">Read More</a>--}}
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -139,17 +133,16 @@
                     <div class="row h-100">
                         <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
                             <header class="entry-header">
-                                <h1>Donate</h1>
-                                <h4>4 a better world</h4>
+                                <h4>There is no exercise better for the heart than reaching down and lifting up underprivileged</h4>
                             </header><!-- .entry-header -->
 
-                            <div class="entry-content mt-4">
-                                <p>Generosity consists not of the sum given, but the manner in which it is bestowed.</p>
-                            </div><!-- .entry-content -->
+                            {{--<div class="entry-content mt-4">--}}
+                                {{--<p>Generosity consists not of the sum given, but the manner in which it is bestowed.</p>--}}
+                            {{--</div><!-- .entry-content -->--}}
 
                             <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                <a href="#" class="btn gradient-bg mr-2">Donate Now</a>
-                                <a href="#" class="btn orange-border">Read More</a>
+                                {{--<a href="#" class="btn gradient-bg mr-2">Donate Now</a>--}}
+                                {{--<a href="#" class="btn orange-border">Read More</a>--}}
                             </footer><!-- .entry-footer -->
                         </div><!-- .col -->
                     </div><!-- .row -->
@@ -182,7 +175,7 @@
             <div class="col-12 col-lg-6 order-2 order-lg-1">
                 <div class="welcome-content">
                     <header class="entry-header">
-                        <h2 class="entry-title">Welcome to MarieCare</h2>
+                        <h2 class="entry-title">Welcome to Mariecare</h2>
                     </header><!-- .entry-header -->
 
                     <div class="entry-content mt-5">
@@ -198,7 +191,7 @@
                     </div><!-- .entry-content -->
 
                     <div class="entry-footer mt-5">
-                        <a href="about.html" class="btn gradient-bg mr-2">Read More</a>
+                        <a href="/about" class="btn gradient-bg mr-2">Read More</a>
                     </div><!-- .entry-footer -->
                 </div><!-- .welcome-content -->
             </div><!-- .col -->
@@ -390,32 +383,13 @@
 
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
-                                        <h3 class="entry-title w-100 m-0"><a href="#">Aiding downtrodden Women</a></h3>
+                                        <h3 class="entry-title w-100 m-0"><a href="#">Aiding Downtrodden Women</a></h3>
                                     </header><!-- .entry-header -->
 
                                     <div class="entry-content">
-                                        <p class="m-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vestib ulum mauris.</p>
+                                        <p class="m-0">Providin resource for financially incapacitated women</p>
                                     </div><!-- .entry-content -->
 
-                                    <div class="fund-raised w-100">
-                                        <div class="fund-raised-bar-1 barfiller">
-                                            <div class="tipWrap">
-                                                <span class="tip"></span>
-                                            </div><!-- .tipWrap -->
-
-                                            <span class="fill" data-percentage="83"></span>
-                                        </div><!-- .fund-raised-bar -->
-
-                                        <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
-                                            <div class="fund-raised-total mt-4">
-                                                Raised: NGN:156 880
-                                            </div><!-- .fund-raised-total -->
-
-                                            <div class="fund-raised-goal mt-4">
-                                                Goal: NGN:170 000
-                                            </div><!-- .fund-raised-goal -->
-                                        </div><!-- .fund-raised-details -->
-                                    </div><!-- .fund-raised -->
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
@@ -439,25 +413,6 @@
                                         <p class="m-0">Bringing quality educational and training to less developed and equipped schools</p>
                                     </div><!-- .entry-content -->
 
-                                    <div class="fund-raised w-100">
-                                        <div class="fund-raised-bar-2 barfiller">
-                                            <div class="tipWrap">
-                                                <span class="tip"></span>
-                                            </div><!-- .tipWrap -->
-
-                                            <span class="fill" data-percentage="70"></span>
-                                        </div><!-- .fund-raised-bar -->
-
-                                        <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
-                                            <div class="fund-raised-total mt-4">
-                                                Raised: NGN:156 880
-                                            </div><!-- .fund-raised-total -->
-
-                                            <div class="fund-raised-goal mt-4">
-                                                Goal: NGN:170 000
-                                            </div><!-- .fund-raised-goal -->
-                                        </div><!-- .fund-raised-details -->
-                                    </div><!-- .fund-raised -->
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
@@ -474,32 +429,12 @@
 
                                 <div class="cause-content-wrap">
                                     <header class="entry-header d-flex flex-wrap align-items-center">
-                                        <h3 class="entry-title w-100 m-0"><a href="#">Skill acquisition/training</a></h3>
+                                        <h3 class="entry-title w-100 m-0"><a href="#">Skill Acquisition/Training</a></h3>
                                     </header><!-- .entry-header -->
 
                                     <div class="entry-content">
                                         <p class="m-0">Helping to train women in business and acquiring vocational skills</p>
                                     </div><!-- .entry-content -->
-
-                                    <div class="fund-raised w-100">
-                                        <div class="fund-raised-bar-3 barfiller">
-                                            <div class="tipWrap">
-                                                <span class="tip"></span>
-                                            </div><!-- .tipWrap -->
-
-                                            <span class="fill" data-percentage="83"></span>
-                                        </div><!-- .fund-raised-bar -->
-
-                                        <div class="fund-raised-details d-flex flex-wrap justify-content-between align-items-center">
-                                            <div class="fund-raised-total mt-4">
-                                                Raised: NGN: 56 880
-                                            </div><!-- .fund-raised-total -->
-
-                                            <div class="fund-raised-goal mt-4">
-                                                Goal: NGN: 70 000
-                                            </div><!-- .fund-raised-goal -->
-                                        </div><!-- .fund-raised-details -->
-                                    </div><!-- .fund-raised -->
                                 </div><!-- .cause-content-wrap -->
                             </div><!-- .cause-wrap -->
                         </div><!-- .swiper-slide -->
@@ -542,7 +477,7 @@
                             </div>
 
                             <div class="d-flex justify-content-center align-items-baseline">
-                                <div class="start-counter" data-to="12" data-speed="2000"></div>
+                                <div class="start-counter" data-to="1" data-speed="2000"></div>
                                 <div class="counter-k">K</div>
                             </div>
 
@@ -616,8 +551,8 @@
                         <h2>Contact</h2>
 
                         <ul>
-                            <li><i class="fa fa-phone"></i><span>+2348032599864</span></li>
-                            <li><i class="fa fa-envelope"></i><span>mariecareinitiative@gmail.com</span></li>
+                            <li><i class="fa fa-phone"></i><span>+23495045393, +2348032599864</span></li>
+                            <li><i class="fa fa-envelope"></i><span>info@mariecare.org</span></li>
                             <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market New Karu</span></li>
                         </ul>
                     </div><!-- .foot-contact -->
@@ -669,6 +604,10 @@
 
             <!-- Modal body -->
             <div class="modal-body">
+                Account Number: 1015658473 <br>
+                Bank:   Zenith Bank
+                <br>
+                <p>OR</p>
                 <form>
                     <div class="form-group">
                         <label for="amount">Amount</label>

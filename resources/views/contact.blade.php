@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Mariecare</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -32,11 +32,11 @@
             <div class="row flex-wrap justify-content-center justify-content-lg-between align-items-lg-center">
                 <div class="col-12 col-lg-8 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                     <div class="header-bar-email">
-                        MAIL: <a href="#">mariecareinitiative@gmail.com</a>
+                        MAIL: <a href="#">info@mariecare.org</a>
                     </div><!-- .header-bar-email -->
 
                     <div class="header-bar-text">
-                        <p>PHONE: <span>+2348032633071</span></p>
+                        <p>PHONE: <span>+23495045393, +2348032599864</span></p>
                     </div><!-- .header-bar-text -->
                 </div><!-- .col -->
 
@@ -106,8 +106,8 @@
                     </ul>
 
                     <ul class="contact-info p-0">
-                        <li><i class="fa fa-phone"></i><span>+2348032633071</span></li>
-                        <li><i class="fa fa-envelope"></i><span>mariecareinitiative@gmail.com</span></li>
+                        <li><i class="fa fa-phone"></i><span>+23495045393, +2348032599864</span></li>
+                        <li><i class="fa fa-envelope"></i><span>info@mariecare.org</span></li>
                         <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market New Karu</span></li>
                     </ul>
                 </div>
@@ -164,8 +164,8 @@
                         <h2>Contact</h2>
 
                         <ul>
-                            <li><i class="fa fa-phone"></i><span>+2348032599864</span></li>
-                            <li><i class="fa fa-envelope"></i><span>mariecareinitiative@gmail.com</span></li>
+                            <li><i class="fa fa-phone"></i><span>+23495045393, +2348032599864</span></li>
+                            <li><i class="fa fa-envelope"></i><span>info@mariecare.org</span></li>
                             <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market New Karu</span></li>
                         </ul>
                     </div><!-- .foot-contact -->

@@ -42,7 +42,7 @@ a:hover, a:active {
 # Header Bar
 --------------------------------*/
 .top-header-bar {
-    background: #ff4800;
+    background: #2575bb;
     color: #fff;
 }
 
@@ -1288,7 +1288,7 @@ ul.tabs-nav .tab-nav.active {
 # Causes
 --------------------------------------------------------------*/
 .causes-page .page-header {
-    background: url(images/causes-bg.jpg) no-repeat center;
+    background: url(images/cause-bg.jpg) no-repeat center;
 }
 
 .causes-page .featured-cause {
