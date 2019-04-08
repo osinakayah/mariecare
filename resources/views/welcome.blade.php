@@ -102,7 +102,7 @@
                         </header><!-- .entry-header -->
 
                         <div class="entry-content mt-5">
-                            <p>
+                            <p style="color: white">
                                 MARIECARE INITIATIVE is a non-profit organization (NGO), founded in 2017
                                 with the common aspiration of meeting the essential needs of the underprivileged
                                 women and children in our society. We are driven by a genuine commitment in
