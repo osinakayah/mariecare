@@ -14,7 +14,7 @@
     <div class="portfolio-wrap">
         <div class="container">
             <div class="row portfolio-container">
-                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-3 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/a.jpg" alt=""></a>
 
@@ -23,7 +23,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/b.jpg" alt=""></a>
 
@@ -32,7 +32,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-5 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/c.jpg" alt=""></a>
 
@@ -41,7 +41,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-5 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/d.jpg" alt=""></a>
 
@@ -50,7 +50,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-48 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/e.jpg" alt=""></a>
 
@@ -59,7 +59,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 mt-48 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/f.jpg" alt=""></a>
 
@@ -68,7 +68,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/g.jpg" alt=""></a>
 
@@ -77,7 +77,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-6 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/h.jpg" alt=""></a>
 
@@ -86,7 +86,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/i.jpg" alt=""></a>
 
@@ -104,7 +104,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/b.jpg" alt=""></a>
 
@@ -113,7 +113,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-5 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/c.jpg" alt=""></a>
 
@@ -122,7 +122,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-5 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/d.jpg" alt=""></a>
 
@@ -131,7 +131,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-48 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/e.jpg" alt=""></a>
 
@@ -140,7 +140,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 mt-48 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/f.jpg" alt=""></a>
 
@@ -149,7 +149,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/g.jpg" alt=""></a>
 
@@ -158,7 +158,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-6 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/h.jpg" alt=""></a>
 
@@ -167,7 +167,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-72 portfolio-item">
+                <div class="col-12 col-md-6 col-lg-4 portfolio-item">
                     <div class="portfolio-cont">
                         <a href="#"><img src="images/i.jpg" alt=""></a>
 

@@ -4,18 +4,18 @@
     <div class="swiper-container hero-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide hero-content-wrap">
-                <img src="images/slide-1.jpg" alt="">
+                <img src="images/slide-2.jpg" alt="">
 
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header">
-                                    <h4>A cheerful heart is good medicine, but a broken spirit saps a person’s strength</h4>
+                                <header class="entry-header" style="margin-top: 30rem">
+                                    <h5>A cheerful heart is good medicine, but a broken spirit saps a person’s strength</h5>
                                 </header><!-- .entry-header -->
 
                                 <footer class="entry-footer d-flex flex-wrap align-items-center mt-5">
-                                    <a href="#" class="btn gradient-bg mr-2" style="display: none">Donate Now</a>a
+                                    <a href="#" class="btn gradient-bg mr-2" style="display: none">Donate Now</a>
                                 </footer><!-- .entry-footer -->
                             </div><!-- .col -->
                         </div><!-- .row -->
@@ -24,14 +24,14 @@
             </div><!-- .hero-content-wrap -->
 
             <div class="swiper-slide hero-content-wrap">
-                <img src="images/slide-2.jpg" alt="">
+                <img src="images/slide-1.jpg" alt="">
 
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header">
-                                    <h4>You have not lived today until you have done something for someone who can never repay you.</h4>
+                                <header class="entry-header" style="margin-top: 30rem" >
+                                    <h5>You have not lived today until you have done something for someone who can never repay you.</h5>
                                 </header><!-- .entry-header -->
 
                                 {{--<div class="entry-content mt-4">--}}
@@ -55,8 +55,8 @@
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header">
-                                    <h4>There is no exercise better for the heart than reaching down and lifting up underprivileged</h4>
+                                <header class="entry-header" style="margin-top: 30rem">
+                                    <h5>There is no exercise better for the heart than reaching down and lifting up underprivileged</h5>
                                 </header><!-- .entry-header -->
 
                                 {{--<div class="entry-content mt-4">--}}
@@ -132,7 +132,7 @@
             <div class="row">
                 <div class="coL-12">
                     <div class="section-heading">
-                        <h2 class="entry-title">Our Causes</h2>
+                        <h2 class="entry-title">Our Cause</h2>
                     </div><!-- .section-heading -->
                 </div><!-- .col -->
             </div><!-- .row -->

@@ -80,10 +80,7 @@
 
                         <div class="entry-content mt-5">
                             <p>
-                                To constantly provide help to the immediate problems in our society
-
-                                Our initiative has made significant impact in carrying out social outreaches geared
-                                towards affecting the lives of the downtrodden in the past.
+                                To constantly provide help to the immediate problems in our society.
                             </p>
                         </div><!-- .entry-content -->
 
@@ -111,7 +108,7 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
                         <div class="team-img">
-                            <img src="https://image.freepik.com/free-photo/man-standing-with-a-black-t-shirt_1187-1045.jpg" alt="team member" class="img-responsive">
+                            <img src="images/marie-onen" alt="team member" class="img-responsive">
                         </div>
                         <div class="team-hover">
                             <div class="desk">
@@ -126,14 +123,14 @@
                         </div>
                     </div>
                     <div class="team-title">
-                        <h5>Marie Onan</h5>
+                        <h5>Marie Onen</h5>
                         <span>founder &amp; ceo</span>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
                         <div class="team-img">
-                            <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive">
+                            <img src="rose-ehi-douglas" alt="team member" class="img-responsive">
                         </div>
                         <div class="team-hover">
                             <div class="desk">
@@ -148,14 +145,14 @@
                         </div>
                     </div>
                     <div class="team-title">
-                        <h5>Marie Onan</h5>
-                        <span>founder &amp; ceo</span>
+                        <h5>Mrs Rose Doughlas</h5>
+                        <span>Board Member</span>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
                         <div class="team-img">
-                            <img src="https://image.freepik.com/free-photo/well-dressed-executive-with-crossed-arms_1098-3930.jpg" alt="team member" class="img-responsive">
+                            <img src="charles-ibiang" alt="team member" class="img-responsive">
                         </div>
                         <div class="team-hover">
                             <div class="desk">
@@ -170,8 +167,53 @@
                         </div>
                     </div>
                     <div class="team-title">
-                        <h5>Marie Onan</h5>
-                        <span>founder &amp; ceo</span>
+                        <h5>Charles O. Ibiang</h5>
+                        <span>Board Member</span>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="images/salid-gideon" alt="team member" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                {{--<h4>Hi There !</h4>--}}
+                                {{--<p>I love to introduce myself as a hardcore Web Designer.</p>--}}
+                            </div>
+                            <div class="s-link">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h5>Salif Gideon</h5>
+                        <span>Programmer Director</span>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="images/monabee-mitee" alt="team member" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                {{--<h4>Hello World</h4>--}}
+                                {{--<p>I love to introduce myself as a hardcore Web Designer.</p>--}}
+                            </div>
+                            <div class="s-link">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h5>Mr Monabe Mitee</h5>
+                        <span>Board Member</span>
                     </div>
                 </div>
 
@@ -265,7 +307,7 @@
                 <div class="col-12 d-flex flex-wrap justify-content-between align-items-center">
                     <h2>Help us so we can help others</h2>
 
-                    <a class="btn orange-border" href="#">Donate now</a>
+                    <a class="btn orange-border donate-btn" href="#">Donate now</a>
                 </div>
             </div>
         </div>
