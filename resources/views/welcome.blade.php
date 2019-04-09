@@ -4,7 +4,7 @@
     <div class="swiper-container hero-slider">
         <div class="swiper-wrapper">
             <div class="swiper-slide hero-content-wrap">
-                <img src="images/slide-2.jpg" alt="">
+                <img src="images/slide-1.jpg" alt="">
 
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
@@ -24,7 +24,7 @@
             </div><!-- .hero-content-wrap -->
 
             <div class="swiper-slide hero-content-wrap">
-                <img src="images/slide-1.jpg" alt="">
+                <img src="images/slide-2.jpg" alt="">
 
                 <div class="hero-content-overlay position-absolute w-100 h-100">
                     <div class="container h-100">
