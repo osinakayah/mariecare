@@ -104,7 +104,7 @@
                     <ul>
                         <li><a href="#">Privacy Policy</a></li>
                         <li><a href="#" class="become-volunteer">Become  a Volunteer</a></li>
-                        <li><a href="#">Donate</a></li>
+                        <li class="link-donate"><a href="#">Donate</a></li>
                     </ul>
                 </div><!-- .col -->
 

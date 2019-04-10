@@ -158,7 +158,8 @@
         $('.portfolio-item:hidden').slice(0, 9).addClass('visible');
     });
 
-    $('.donate-btn').on('click', function (e) {
+    $('.donate-btn, .link-donate').on('click', function (e) {
+        e.preventDefault();
         $('#donateModal').modal();
     });
 

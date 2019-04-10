@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 order-2 order-lg-1">
-                    <img src="images/a.jpg" alt="welcome">
+                    <img style="width: auto; height: 22rem" src="images/a.jpg" alt="welcome">
                 </div><!-- .col -->
 
                 <div class="col-12 col-lg-6 order-1 order-lg-2">
@@ -61,19 +61,6 @@
                                 communities is restored.
                             </p>
                         </div><!-- .entry-content -->
-
-                    </div><!-- .welcome-content -->
-
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .container -->
-    </div><!-- .home-page-icon-boxes -->
-
-    <div class="welcome-wrap">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-6 order-2 order-lg-1">
-                    <div class="welcome-content">
                         <header class="entry-header">
                             <h2 class="entry-title">Our Vision</h2>
                         </header><!-- .entry-header -->
@@ -85,10 +72,7 @@
                         </div><!-- .entry-content -->
 
                     </div><!-- .welcome-content -->
-                </div><!-- .col -->
 
-                <div class="col-12 col-lg-6 order-1 order-lg-2">
-                    <img src="images/b.jpg" alt="welcome">
                 </div><!-- .col -->
             </div><!-- .row -->
         </div><!-- .container -->
