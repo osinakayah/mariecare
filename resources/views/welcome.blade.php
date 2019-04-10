@@ -157,7 +157,7 @@
                                         </header><!-- .entry-header -->
 
                                         <div class="entry-content">
-                                            <p class="m-0">Providin resource for financially incapacitated women</p>
+                                            <p class="m-0">Providing resource for financially incapacitated women</p>
                                         </div><!-- .entry-content -->
 
                                     </div><!-- .cause-content-wrap -->

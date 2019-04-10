@@ -42,7 +42,7 @@
         </div><!-- .container -->
     </div><!-- .home-page-icon-boxes -->
 
-    <div class="welcome-wrap">
+    <div style="padding-top: 0;" class="welcome-wrap">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 order-2 order-lg-1">
@@ -108,7 +108,7 @@
                     </div>
                     <div class="team-title">
                         <h5>Marie Onen</h5>
-                        <span>founder &amp; ceo</span>
+                        <span>Lead Director</span>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">

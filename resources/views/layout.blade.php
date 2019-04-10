@@ -24,6 +24,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body class="single-page @yield('page_title')">
 <header class="site-header">
@@ -36,7 +37,7 @@
                     </div><!-- .header-bar-email -->
 
                     <div class="header-bar-text">
-                        <p>PHONE: <span>+23495045393, +2348032599864</span></p>
+                        <p>PHONE: <span>+2348032633071, +2348032599864</span></p>
                     </div><!-- .header-bar-text -->
                 </div><!-- .col -->
 
@@ -115,7 +116,7 @@
                         <ul>
                             <li><i class="fa fa-phone"></i><span>+23495045393, +2348032599864</span></li>
                             <li><i class="fa fa-envelope"></i><span>info@mariecare.org</span></li>
-                            <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market New Karu</span></li>
+                            <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market Karu Abuja</span></li>
                         </ul>
                     </div><!-- .foot-contact -->
 
