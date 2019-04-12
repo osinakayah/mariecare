@@ -269,19 +269,19 @@
                             </div><!-- counter-box -->
                         </div><!-- .col -->
 
-                        <div class="col-12 col-sm-4 mt-5 mt-lg-0">
-                            <div class="counter-box">
-                                <div class="d-flex justify-content-center align-items-center">
-                                    <img src="images/dove.png" alt="">
-                                </div>
+                        {{--<div class="col-12 col-sm-4 mt-5 mt-lg-0">--}}
+                            {{--<div class="counter-box">--}}
+                                {{--<div class="d-flex justify-content-center align-items-center">--}}
+                                    {{--<img src="images/dove.png" alt="">--}}
+                                {{--</div>--}}
 
-                                <div class="d-flex justify-content-center align-items-baseline">
-                                    <div class="start-counter" data-to="25" data-speed="2000"></div>
-                                </div>
+                                {{--<div class="d-flex justify-content-center align-items-baseline">--}}
+                                    {{--<div class="start-counter" data-to="25" data-speed="2000"></div>--}}
+                                {{--</div>--}}
 
-                                <h3 class="entry-title">Volunteeres</h3><!-- entry-title -->
-                            </div><!-- counter-box -->
-                        </div><!-- .col -->
+                                {{--<h3 class="entry-title">Volunteers</h3><!-- entry-title -->--}}
+                            {{--</div><!-- counter-box -->--}}
+                        {{--</div><!-- .col -->--}}
                     </div><!-- .milestones -->
                 </div><!-- .col -->
             </div><!-- .row -->

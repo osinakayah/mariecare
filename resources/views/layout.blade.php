@@ -24,6 +24,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/logo.jpeg" type="image/jpeg" sizes="16x16">
 
 </head>
 <body class="single-page @yield('page_title')">
@@ -89,7 +90,7 @@
                     <div class="foot-about">
                         <h2><a class="foot-logo" href="#"><img src="images/logo.jpeg" style="width: 3em" alt=""></a></h2>
 
-                        <p>MARIECARE INITIATIVE is a non-profit organization (NGO), founded in 2017 with the common aspiration of meeting the essential needs of the underprivileged women and children in our society.</p>
+                        <p>MARIECARE INITIATIVE is a non-profit organization (NGO),duly registered with the Corporate Affairs Commission (CAC), Nigeria, with a registration number CAC/IT/NO/103868. It was founded in 2017 with the common aspiration of meeting the essential needs of the underprivileged women and children in our society.</p>
 
                         <ul class="d-flex flex-wrap align-items-center">
                             <li><a href="http://www.facebook.com/mariecareinitiative"><i class="fa fa-facebook"></i></a></li>
@@ -116,7 +117,7 @@
                         <ul>
                             <li><i class="fa fa-phone"></i><span>+23495045393, +2348032599864</span></li>
                             <li><i class="fa fa-envelope"></i><span>info@mariecare.org</span></li>
-                            <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market Karu Abuja</span></li>
+                            <li><i class="fa fa-map-marker"></i><span>N0.2 Living Spring Chapel Avenue, Opp. Muhammadu Buhari international Market, Karu, Abuja</span></li>
                         </ul>
                     </div><!-- .foot-contact -->
 

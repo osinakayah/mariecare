@@ -175,7 +175,7 @@
                     </div>
                     <div class="team-title">
                         <h5>Salif Gideon</h5>
-                        <span>Programmer Director</span>
+                        <span>Program Director</span>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
@@ -271,7 +271,7 @@
                 <div class="col-12 col-md-6 offset-lg-2 col-lg-5">
                     <div class="testimonial-cont">
                         <div class="entry-content">
-                            <p>Service to others is the rent you pay for your room here on earth..</p>
+                            <p>Volunteering is the ultimate exercise in democracy</p>
                         </div>
 
                         <div class="entry-footer d-flex flex-wrap align-items-center mt-5">
