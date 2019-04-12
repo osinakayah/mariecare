@@ -234,13 +234,13 @@
                     <div class="section-heading">
                         <h2 class="entry-title">There is no exercise better for the heart than reaching down and lifting up underprivileged</h2>
 
-                        <p class="mt-5">We cannot do great things on this Earth. Only small things with great love.</p>
+                        <p class="mt-5"></p>
                     </div><!-- .section-heading -->
                 </div><!-- .col -->
 
                 <div class="col-12 col-lg-6">
                     <div class="milestones d-flex flex-wrap justify-content-between">
-                        <div class="col-12 col-sm-4 mt-5 mt-lg-0">
+                        <div class="col-12 col-sm-4 mt-5 mt-lg-0" style="display:none;">
                             <div class="counter-box">
                                 <div class="d-flex justify-content-center align-items-center">
                                     <img src="images/teamwork.png" alt="">
@@ -255,7 +255,7 @@
                             </div><!-- counter-box -->
                         </div><!-- .col -->
 
-                        <div class="col-12 col-sm-4 mt-5 mt-lg-0">
+                        <div class="col-12 col-sm-4 mt-5 mt-lg-0" style="display:none;">
                             <div class="counter-box">
                                 <div class="d-flex justify-content-center align-items-center">
                                     <img src="images/donation.png" alt="">
@@ -269,19 +269,19 @@
                             </div><!-- counter-box -->
                         </div><!-- .col -->
 
-                        {{--<div class="col-12 col-sm-4 mt-5 mt-lg-0">--}}
-                            {{--<div class="counter-box">--}}
-                                {{--<div class="d-flex justify-content-center align-items-center">--}}
-                                    {{--<img src="images/dove.png" alt="">--}}
-                                {{--</div>--}}
+                        <div class="col-12 col-sm-4 mt-5 mt-lg-0" style="display:none;">
+                            <div class="counter-box">
+                                <div class="d-flex justify-content-center align-items-center">
+                                    <img src="images/dove.png" alt="">
+                                </div>
 
-                                {{--<div class="d-flex justify-content-center align-items-baseline">--}}
-                                    {{--<div class="start-counter" data-to="25" data-speed="2000"></div>--}}
-                                {{--</div>--}}
+                                <div class="d-flex justify-content-center align-items-baseline">
+                                    <div class="start-counter" data-to="25" data-speed="2000"></div>
+                                </div>
 
-                                {{--<h3 class="entry-title">Volunteers</h3><!-- entry-title -->--}}
-                            {{--</div><!-- counter-box -->--}}
-                        {{--</div><!-- .col -->--}}
+                                <h3 class="entry-title">Volunteers</h3><!-- entry-title -->
+                            </div><!-- counter-box -->
+                        </div><!-- .col -->
                     </div><!-- .milestones -->
                 </div><!-- .col -->
             </div><!-- .row -->
