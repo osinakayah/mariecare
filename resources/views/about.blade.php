@@ -92,7 +92,7 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
                         <div class="team-img">
-                            <img src="images/WhatsApp Image 2019-04-05 at 7.59.50 AM.jpeg" alt="team member" class="img-responsive">
+                            <img src="images/marie-onen.jpg" alt="team member" class="img-fluid">
                         </div>
                         <div class="team-hover">
                             <div class="desk">
