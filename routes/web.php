@@ -25,6 +25,9 @@ Route::get('/portfolio', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/events', function () {
+    return view('events');
+});
 
 Route::post('contact/email', function (\Illuminate\Http\Request $request){
     $name = $request->get('fullname');

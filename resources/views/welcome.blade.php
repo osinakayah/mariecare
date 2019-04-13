@@ -10,7 +10,7 @@
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header" style="margin-top: 30rem">
+                                <header class="entry-header" style="margin-top: 20rem">
                                     <h5>A cheerful heart is good medicine, but a broken spirit saps a person’s strength</h5>
                                 </header><!-- .entry-header -->
 
@@ -30,7 +30,7 @@
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header" style="margin-top: 30rem" >
+                                <header class="entry-header" style="margin-top: 20rem" >
                                     <h5>You have not lived today until you have done something for someone who can never repay you.</h5>
                                 </header><!-- .entry-header -->
 
@@ -55,7 +55,7 @@
                     <div class="container h-100">
                         <div class="row h-100">
                             <div class="col-12 col-lg-8 d-flex flex-column justify-content-center align-items-start">
-                                <header class="entry-header" style="margin-top: 30rem">
+                                <header class="entry-header" style="margin-top: 20rem">
                                     <h5>There is no exercise better for the heart than reaching down and lifting up underprivileged</h5>
                                 </header><!-- .entry-header -->
 

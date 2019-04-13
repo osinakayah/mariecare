@@ -40,6 +40,7 @@
                     <div class="header-bar-text">
                         <p>PHONE: <span>+2348032633071, +2348032599864</span></p>
                     </div><!-- .header-bar-text -->
+
                 </div><!-- .col -->
 
                 <div class="col-12 col-lg-4 d-flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
@@ -57,13 +58,15 @@
                 <div class="col-12 d-flex flex-wrap justify-content-between align-items-center">
                     <div class="site-branding d-flex align-items-center">
                         <a class="d-block" href="/" rel="home"><img style="height: auto;width: 3rem;" class="d-block" src="images/logo.jpeg" alt="logo"></a>
+                        <p id="mariecare_slogan">We care, We give, We Inspire</p>
                     </div><!-- .site-branding -->
 
                     <nav class="site-navigation d-flex justify-content-end align-items-center">
                         <ul class="d-flex flex-column flex-lg-row justify-content-lg-end align-content-center">
-                            <li class="current-menu-item"><a href="/">Home</a></li>
+                            <li class=""><a href="/">Home</a></li>
                             <li><a href="about">About us</a></li>
                             <li><a href="portfolio">Gallery</a></li>
+                            <li><a href="events">Events</a></li>
                             <li><a href="contact">Contact</a></li>
                         </ul>
                     </nav><!-- .site-navigation -->
@@ -90,7 +93,7 @@
                     <div class="foot-about">
                         <h2><a class="foot-logo" href="#"><img src="images/logo.jpeg" style="width: 3em" alt=""></a></h2>
 
-                        <p>MARIECARE INITIATIVE is a non-profit organization (NGO),duly registered with the Corporate Affairs Commission (CAC), Nigeria, with a registration number CAC/IT/NO/103868. It was founded in 2017 with the common aspiration of meeting the essential needs of the underprivileged women and children in our society.</p>
+                        <p>MARIECARE INITIATIVE is a non-profit organization (NGO), duly registered with the Corporate Affairs Commission (CAC), Nigeria, with a registration number CAC/IT/NO/103868. It was founded in 2017 with the common aspiration of meeting the essential needs of the underprivileged women and children in our society.</p>
 
                         <ul class="d-flex flex-wrap align-items-center">
                             <li><a href="http://www.facebook.com/mariecareinitiative"><i class="fa fa-facebook"></i></a></li>

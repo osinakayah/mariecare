@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
-
+#mariecare_slogan{
+    margin-top: 1rem;
+    margin-left: 3rem;
+    font-weight: bold;
+    color: #ee5835;
+}
 body {
     color: #262626;
     font-size: 16px;
@@ -2266,4 +2271,9 @@ ul.tabs-nav .tab-nav.active {
     width: 100%;
     height: 30rem;
 
+}
+
+.portfolio-cont a img.img-fluid {
+    height: 15rem;
+    width: 100%;
 }
