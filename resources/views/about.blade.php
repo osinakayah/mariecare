@@ -71,12 +71,46 @@
                             </p>
                         </div><!-- .entry-content -->
 
+
+
+
+
+
                     </div><!-- .welcome-content -->
 
                 </div><!-- .col -->
             </div><!-- .row -->
         </div><!-- .container -->
     </div><!-- .home-page-icon-boxes -->
+
+    <div class="welcome-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-12 order-1 order-lg-2">
+                    <div class="welcome-content">
+                        <header class="entry-header">
+                            <h2 class="entry-title">Our Objective</h2>
+                        </header><!-- .entry-header -->
+
+                        <div class="entry-content mt-5">
+                            <ol>
+                                <li>To create awareness in youths on contemporary leadership potential, Education, Business start-up and Management.</li>
+                                <li> To restore hope for the under privileged youth, women, through vocational skills, trainings and material donations. </li>
+
+                                <li>To engage in community building and development in highly deprived communities.</li>
+                                <li>To provide scholarships financial aids to children who are out of school in rural communities.</li>
+                                <li>To donate educational materials to schools in rural communities.</li>
+                                <li>To develop training programs for self-employment and adult literacy.</li>
+                                <li>To provide free health care for highly deprived communities.</li>
+                                <li>To organize forums, seminars, bootcamp, campaign e.t.c for spreading good living, moral values, character development and meeting societal needs globally.</li>
+                            </ol>
+                        </div><!-- .entry-content -->
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="our-team">
         <div class="container">
@@ -136,7 +170,7 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="team-member">
                         <div class="team-img">
-                            <img src="images/WhatsApp Image 2019-04-05 at 7.58.09 AM.jpeg" alt="team member" class="img-fluid">
+                            <img src="images/FB_IMG_1555781884717.jpg" alt="team member" class="img-fluid">
                         </div>
                         <div class="team-hover">
                             <div class="desk">
