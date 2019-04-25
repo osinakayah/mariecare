@@ -108,7 +108,7 @@
 
                     <ul>
                         <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#" class="become-volunteer">Become  a Volunteer</a></li>
+                        <li><a href="https://forms.gle/t2cEHuhjP1dk1kg69" class="become-volunteer">Become  a Volunteer</a></li>
                         <li class="link-donate"><a href="#">Donate</a></li>
                     </ul>
                 </div><!-- .col -->
@@ -150,39 +150,7 @@
 
 
 
-<div class="modal" id="volunteerModal">
-    <div class="modal-dialog">
-        <div class="modal-content">
 
-            <!-- Modal Header -->
-            <div class="modal-header">
-                <h4 class="modal-title">Become a volunteer</h4>
-                <button type="button" class="close" data-dismiss="modal">&times;</button>
-            </div>
-
-            <!-- Modal body -->
-            <div class="modal-body">
-                <form>
-                    <div class="form-group">
-                        <label for="name">Name</label>
-                        <input type="text" class="form-control" id="name">
-                    </div>
-                    <div class="form-group">
-                        <label for="name">Phone Number</label>
-                        <input type="text" class="form-control" id="name">
-                    </div>
-                    <button type="submit" class="btn btn-primary btn gradient-bg">Send</button>
-                </form>
-            </div>
-
-            <!-- Modal footer -->
-            <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
-            </div>
-
-        </div>
-    </div>
-</div>
 <div class="modal" id="donateModal">
     <div class="modal-dialog">
         <div class="modal-content">
