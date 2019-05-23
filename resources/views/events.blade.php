@@ -23,6 +23,13 @@
                             <div class="row">
                                 <div class="col-4">
                                     <div class="portfolio-cont">
+                                        <a href="#"><img src="images/free_medical.jpg" class="img-fluid" alt=""></a>
+                                        <h3 class="entry-title"><a href="#">Free medical</a></h3>
+                                        <h4>2019 Event</h4>
+                                    </div>
+                                </div>
+                                <div class="col-4">
+                                    <div class="portfolio-cont">
                                         <a href="#"><img src="images/f.jpg" class="img-fluid" alt=""></a>
                                         <h3 class="entry-title"><a href="#">Scholarship</a></h3>
                                         <h4>2018 Event</h4>

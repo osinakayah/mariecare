@@ -140,7 +140,32 @@
             <div class="row">
                 <div class="col-12">
                     <div class="swiper-container causes-slider">
+
                         <div class="swiper-wrapper">
+
+                            <div class="swiper-slide">
+                                <div class="cause-wrap">
+                                    <figure class="m-0">
+                                        <img src="images/free_medical.jpg" alt="">
+
+                                        <div class="figure-overlay d-flex justify-content-center align-items-center position-absolute w-100 h-100">
+                                            <a href="#" class="btn gradient-bg mr-2 donate-btn">Donate Now</a>
+                                        </div><!-- .figure-overlay -->
+                                    </figure>
+
+                                    <div class="cause-content-wrap">
+                                        <header class="entry-header d-flex flex-wrap align-items-center">
+                                            <h3 class="entry-title w-100 m-0"><a href="#">Free medicals</a></h3>
+                                        </header><!-- .entry-header -->
+
+                                        <div class="entry-content">
+                                            <p class="m-0">Providing free medical care care for hundreds</p>
+                                        </div><!-- .entry-content -->
+
+                                    </div><!-- .cause-content-wrap -->
+                                </div><!-- .cause-wrap -->
+                            </div><!-- .swiper-slide -->
+
                             <div class="swiper-slide">
                                 <div class="cause-wrap">
                                     <figure class="m-0">
